@@ -3,6 +3,8 @@
 
 ## Programming Languages
 ![Static Badge](https://img.shields.io/badge/Java-orange)
+![Static Badge](https://img.shields.io/badge/C++-blue)
+![Static Badge](https://img.shields.io/badge/Python-darkblue)
 <!--
 **lyricMirror/LyricMirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
