@@ -1,8 +1,8 @@
-## Hi there 👋
-### I am Niraj Sahu, a passionate Developer.
+# Hi there 👋
+  I am Niraj Sahu, a passionate Developer.
 
-# Programming Languages
-
+## Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 <!--
 **lyricMirror/LyricMirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
