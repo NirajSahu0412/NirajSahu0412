@@ -1,7 +1,8 @@
-### Hi there 👋
-## I am Niraj Sahu, a passionate Developer.
+## Hi there 👋
+### I am Niraj Sahu, a passionate Developer.
 
-@Programming Languages
+# Programming Languages
+#Java
 
 <!--
 **lyricMirror/LyricMirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
