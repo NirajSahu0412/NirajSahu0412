@@ -24,7 +24,7 @@
 
 ## Software & Tools
 
-![Static Badge](https://img.shields.io/badge/Visual-Studio-Code-orange)
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-orange)
 
 <!--
 **lyricMirror/LyricMirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
